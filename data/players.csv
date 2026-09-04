@@ -1,0 +1,501 @@
+Player,Position,League,MarketValue,ProgressivePasses,Tackles,Interceptions,xG,Age
+Erling Haaland,Forward,Premier League,81.26,1.38,0.46,0.34,0.73,25
+Kylian Mbappe,Forward,La Liga,75.12,0.6,0.31,0.12,0.68,25
+Harry Kane,Forward,Bundesliga,127.03,0.98,0.21,0.12,0.75,18
+Mohamed Salah,Forward,Premier League,122.39,1.19,0.38,0.26,0.76,30
+Vinicius Jr,Forward,La Liga,51.46,1.35,0.49,0.42,0.6,34
+Kevin De Bruyne,Midfielder,Premier League,124.48,4.74,1.45,0.58,0.24,28
+Rodri,Midfielder,Premier League,64.25,1.46,3.03,2.29,0.14,29
+Martin Odegaard,Midfielder,Premier League,101.08,4.47,1.49,1.03,0.26,23
+Jude Bellingham,Midfielder,La Liga,114.56,1.46,2.97,2.33,0.09,19
+Declan Rice,Midfielder,Premier League,126.72,2.09,2.64,2.09,0.09,21
+Toni Kroos,Midfielder,La Liga,103.35,4.04,1.16,1.48,0.16,34
+Pedri,Midfielder,La Liga,131.98,3.68,1.49,1.0,0.11,31
+Virgil van Dijk,Defender,Premier League,64.69,3.05,2.42,2.28,0.08,24
+William Saliba,Defender,Premier League,115.28,2.13,2.02,1.96,0.03,23
+Ruben Dias,Defender,Premier League,65.5,2.06,2.08,2.79,0.09,32
+Kyle Walker,Defender,Premier League,104.8,3.06,3.3,2.85,0.09,29
+Achraf Hakimi,Defender,Ligue 1,68.07,3.06,3.03,2.9,0.02,31
+Alphonso Davies,Defender,Bundesliga,63.43,2.7,2.64,1.83,0.08,26
+Alisson Becker,Goalkeeper,Premier League,136.02,1.32,3.19,2.79,0.02,17
+Thibaut Courtois,Goalkeeper,La Liga,67.03,1.46,4.43,2.5,0.16,21
+Ederson,Goalkeeper,Premier League,98.41,4.58,0.82,1.27,0.29,17
+Leo Santos,Defender,Serie A,12.01,0.6,0.47,0.2,0.56,23
+Diego Costa,Defender,Serie A,3.57,0.55,0.07,0.07,0.35,27
+Leo Rodriguez,Forward,Serie A,29.45,1.27,-0.04,0.11,0.49,26
+Diego Fernandez,Midfielder,Serie A,6.53,1.27,2.22,0.86,0.09,27
+Enzo Martinez,Defender,Ligue 1,11.09,1.07,1.85,3.36,0.1,33
+Mateo Diaz,Goalkeeper,Serie A,25.62,0.22,0.19,0.19,0.3,27
+Julian Martinez,Midfielder,Bundesliga,16.21,1.77,1.16,1.24,0.09,27
+Enzo Martinez,Forward,Bundesliga,37.11,2.02,1.47,1.0,0.07,19
+Gabriel Silva,Forward,Serie A,2.62,2.05,0.42,1.12,0.07,19
+Julian Santos,Midfielder,Serie A,2.37,1.83,-0.19,0.4,0.12,25
+Leo Lopez,Forward,Serie A,27.45,0.83,0.31,0.16,0.68,19
+Leo Rodriguez,Defender,Premier League,34.24,1.3,2.0,2.85,0.04,17
+Lucas Fernandez,Goalkeeper,Serie A,5.15,2.52,1.7,2.02,0.01,32
+Hugo Lopez,Midfielder,La Liga,13.21,1.25,0.39,0.35,0.45,33
+Lucas Martinez,Goalkeeper,Serie A,26.84,0.13,4.94,3.85,0.04,31
+Diego Fernandez,Forward,Ligue 1,36.95,3.26,-0.27,1.47,0.02,34
+Diego Fernandez,Forward,Serie A,11.51,1.25,3.08,3.17,0.09,30
+Enzo Costa,Midfielder,Premier League,8.19,2.3,2.96,3.67,0.05,17
+Lucas Lopez,Defender,Bundesliga,11.78,0.61,1.31,3.39,0.05,20
+Mateo Martinez,Defender,Serie A,22.46,2.29,3.92,1.15,0.08,30
+Enzo Silva,Forward,Premier League,13.16,1.79,2.31,1.24,0.15,19
+Santi Santos,Forward,Ligue 1,2.99,3.99,1.29,2.35,0.12,17
+Leo Silva,Midfielder,Ligue 1,26.92,2.17,0.17,0.14,0.38,23
+Julian Diaz,Goalkeeper,Serie A,0.66,1.57,0.12,0.18,0.68,34
+Marco Fernandez,Forward,Premier League,38.38,-0.03,1.93,2.01,0.02,22
+Santi Diaz,Forward,Ligue 1,18.46,3.19,1.09,0.66,0.07,24
+Enzo Santos,Goalkeeper,La Liga,33.09,1.78,1.55,0.92,0.13,28
+Mateo Garcia,Forward,Ligue 1,14.29,2.64,2.53,0.75,0.13,26
+Hugo Diaz,Forward,Serie A,12.71,1.68,0.16,0.1,0.45,19
+Hugo Lopez,Midfielder,Premier League,24.54,1.41,0.25,0.19,0.48,27
+Hugo Lopez,Forward,Ligue 1,14.5,1.75,2.35,0.78,0.05,18
+Leo Diaz,Forward,Serie A,16.34,1.14,0.22,0.18,0.47,27
+Leo Costa,Forward,Premier League,18.58,1.52,0.48,0.43,0.08,32
+Diego Santos,Forward,Premier League,26.74,0.55,0.34,0.2,0.21,28
+Gabriel Garcia,Defender,Bundesliga,4.67,1.61,0.61,0.39,0.37,24
+Mateo Lopez,Defender,Premier League,13.13,0.67,0.34,0.25,0.46,31
+Hugo Oliveira,Forward,Premier League,3.95,1.13,0.08,0.25,0.34,30
+Gabriel Santos,Forward,Ligue 1,25.76,2.17,3.25,0.92,0.08,33
+Leo Silva,Forward,Bundesliga,38.71,0.4,2.53,0.68,0.03,18
+Hugo Santos,Midfielder,Bundesliga,23.52,1.15,0.43,0.13,0.36,30
+Santi Rodriguez,Defender,La Liga,19.18,1.29,0.38,0.14,0.42,31
+Hugo Silva,Defender,Serie A,12.96,1.57,3.1,1.98,0.01,31
+Mateo Oliveira,Goalkeeper,Bundesliga,10.27,3.62,1.0,2.03,0.15,23
+Marco Garcia,Midfielder,Serie A,29.34,1.09,0.24,0.36,0.21,17
+Marco Santos,Goalkeeper,La Liga,19.04,1.06,0.3,0.27,0.41,29
+Santi Oliveira,Forward,Serie A,33.48,1.02,0.39,1.45,0.14,27
+Santi Rodriguez,Defender,Bundesliga,39.92,0.16,0.02,0.04,0.07,20
+Enzo Fernandez,Forward,Ligue 1,20.75,0.56,3.68,2.24,0.02,25
+Enzo Silva,Goalkeeper,Serie A,12.56,0.89,-0.18,0.43,0.34,33
+Enzo Garcia,Forward,La Liga,30.02,2.26,1.47,2.49,0.05,33
+Mateo Santos,Forward,La Liga,15.63,2.12,2.2,1.34,0.05,27
+Leo Silva,Defender,Premier League,13.39,1.82,3.14,1.28,0.14,20
+Diego Lopez,Goalkeeper,Ligue 1,25.3,1.24,2.92,3.31,0.09,26
+Hugo Diaz,Goalkeeper,Ligue 1,7.53,0.75,1.97,1.74,0.03,25
+Julian Oliveira,Goalkeeper,La Liga,33.37,0.79,0.18,0.08,0.27,33
+Gabriel Martinez,Midfielder,Premier League,32.17,2.37,1.22,3.5,0.02,28
+Hugo Rodriguez,Midfielder,Ligue 1,1.82,0.73,1.48,1.4,0.06,30
+Santi Garcia,Midfielder,Ligue 1,34.23,0.37,3.23,0.6,0.09,25
+Enzo Fernandez,Midfielder,Premier League,35.27,2.54,1.19,1.17,0.2,23
+Leo Lopez,Goalkeeper,Ligue 1,24.34,1.85,1.82,-0.57,0.01,23
+Gabriel Silva,Forward,Premier League,9.75,0.81,2.59,2.81,0.07,27
+Hugo Oliveira,Midfielder,Serie A,21.48,1.56,0.62,2.61,0.07,20
+Julian Martinez,Forward,Serie A,32.75,0.36,0.39,0.37,0.43,18
+Leo Santos,Forward,Bundesliga,32.24,0.91,0.24,0.2,0.48,21
+Enzo Rodriguez,Defender,Bundesliga,17.93,1.13,0.53,1.7,0.04,17
+Hugo Oliveira,Goalkeeper,La Liga,14.61,1.48,0.31,0.36,0.34,21
+Mateo Martinez,Midfielder,La Liga,34.43,3.7,1.37,1.44,0.09,18
+Mateo Rodriguez,Defender,Ligue 1,25.15,2.94,1.65,1.89,0.1,32
+Mateo Costa,Midfielder,Ligue 1,7.69,4.78,1.85,1.02,0.09,20
+Gabriel Martinez,Defender,Premier League,28.79,2.06,3.0,2.04,0.06,33
+Mateo Diaz,Forward,La Liga,8.8,1.19,2.41,1.66,0.04,34
+Mateo Diaz,Defender,Bundesliga,21.65,3.38,2.45,0.56,0.15,32
+Lucas Oliveira,Forward,Premier League,8.51,1.33,3.3,3.19,0.09,34
+Hugo Garcia,Goalkeeper,La Liga,24.74,1.03,0.48,0.26,0.21,33
+Santi Silva,Forward,Ligue 1,0.85,1.99,2.65,1.52,0.01,28
+Gabriel Martinez,Forward,Premier League,38.82,1.88,0.46,2.09,0.02,29
+Julian Rodriguez,Midfielder,Ligue 1,16.53,2.7,2.61,2.78,0.06,32
+Enzo Rodriguez,Defender,Bundesliga,7.74,1.67,2.47,0.14,0.07,33
+Diego Oliveira,Forward,Ligue 1,31.49,2.1,2.37,1.75,0.09,26
+Mateo Garcia,Midfielder,Serie A,23.74,0.44,0.21,0.29,0.09,17
+Leo Lopez,Defender,Bundesliga,3.46,2.91,3.19,0.85,0.06,22
+Marco Diaz,Goalkeeper,Bundesliga,10.41,0.96,3.38,2.51,0.01,33
+Leo Garcia,Midfielder,La Liga,13.25,0.4,0.32,0.09,0.17,23
+Santi Lopez,Defender,Serie A,39.9,2.9,0.89,0.72,0.04,28
+Enzo Fernandez,Defender,Serie A,30.3,2.12,2.72,2.71,0.07,34
+Hugo Diaz,Defender,Serie A,3.82,0.6,0.13,0.11,0.12,33
+Santi Garcia,Midfielder,Premier League,16.05,0.13,1.65,1.79,0.1,33
+Mateo Rodriguez,Midfielder,Bundesliga,3.93,1.95,2.06,1.98,0.06,29
+Santi Diaz,Goalkeeper,Bundesliga,7.63,2.23,4.99,2.64,0.02,22
+Hugo Fernandez,Forward,Serie A,8.1,0.79,0.46,0.71,0.05,24
+Marco Martinez,Midfielder,La Liga,29.46,2.84,1.93,1.36,0.17,34
+Julian Costa,Midfielder,Premier League,4.6,1.35,2.5,1.49,0.03,22
+Mateo Oliveira,Forward,La Liga,18.0,0.9,2.64,2.34,0.1,17
+Julian Silva,Goalkeeper,Bundesliga,29.57,1.99,3.01,3.61,0.06,27
+Julian Santos,Defender,Premier League,5.2,1.47,0.2,0.27,-0.23,24
+Julian Santos,Forward,La Liga,5.51,0.25,2.44,1.05,0.03,22
+Diego Santos,Goalkeeper,Serie A,13.79,1.3,2.41,1.45,0.05,24
+Santi Rodriguez,Midfielder,Ligue 1,10.66,2.47,1.27,0.74,0.19,17
+Gabriel Santos,Goalkeeper,Premier League,32.75,2.18,2.14,1.66,0.04,29
+Leo Silva,Defender,Serie A,24.1,0.62,0.61,0.04,0.47,17
+Lucas Silva,Defender,Ligue 1,31.32,1.84,1.99,1.1,0.06,34
+Lucas Rodriguez,Goalkeeper,Ligue 1,12.4,0.56,0.1,0.26,0.28,22
+Gabriel Rodriguez,Goalkeeper,La Liga,18.14,1.5,1.16,0.6,0.08,29
+Leo Diaz,Defender,La Liga,38.46,1.15,2.54,0.44,0.09,17
+Santi Rodriguez,Defender,Ligue 1,6.31,0.15,2.15,1.85,0.07,19
+Marco Silva,Goalkeeper,Bundesliga,22.02,1.6,2.54,0.87,0.13,29
+Diego Costa,Midfielder,Serie A,24.15,3.0,1.14,1.66,0.08,33
+Enzo Silva,Goalkeeper,Premier League,10.01,4.49,1.46,1.04,0.14,23
+Diego Rodriguez,Forward,Bundesliga,3.27,1.12,1.8,2.97,0.04,28
+Leo Santos,Midfielder,La Liga,19.51,1.06,-0.1,0.22,0.42,22
+Marco Costa,Midfielder,Bundesliga,17.16,2.02,0.6,1.3,0.09,31
+Diego Oliveira,Defender,Bundesliga,9.08,1.01,3.12,2.24,0.05,17
+Leo Santos,Forward,Premier League,10.6,0.87,0.24,0.24,0.46,19
+Gabriel Martinez,Forward,La Liga,32.34,0.84,3.65,0.68,0.06,22
+Marco Costa,Goalkeeper,La Liga,12.11,1.96,-0.09,0.05,0.01,22
+Diego Rodriguez,Goalkeeper,La Liga,13.11,3.37,1.06,1.72,0.13,27
+Mateo Silva,Forward,Serie A,9.08,2.76,2.28,1.6,0.05,31
+Leo Silva,Goalkeeper,La Liga,1.03,1.79,1.16,1.8,0.04,27
+Lucas Lopez,Defender,Bundesliga,15.19,1.48,0.24,0.21,0.37,21
+Enzo Santos,Forward,Premier League,2.84,2.0,1.02,1.37,0.09,28
+Marco Martinez,Forward,Premier League,25.67,2.93,1.47,0.89,0.08,26
+Gabriel Oliveira,Goalkeeper,Premier League,30.57,1.16,0.37,0.25,0.12,23
+Diego Costa,Defender,Ligue 1,23.09,2.89,1.74,0.79,0.0,31
+Julian Silva,Defender,Premier League,20.44,1.54,0.1,1.4,0.06,32
+Leo Oliveira,Defender,Serie A,2.77,1.73,2.32,2.77,-0.01,34
+Lucas Costa,Defender,Bundesliga,4.63,1.26,-0.08,0.09,0.48,21
+Diego Garcia,Goalkeeper,Premier League,37.18,1.89,1.8,0.95,0.04,18
+Gabriel Rodriguez,Defender,Serie A,4.12,0.48,0.46,3.01,0.1,30
+Lucas Lopez,Midfielder,La Liga,36.46,1.72,0.71,0.26,0.61,34
+Diego Costa,Goalkeeper,Premier League,18.87,1.16,0.44,0.27,0.55,20
+Mateo Costa,Goalkeeper,Bundesliga,27.65,1.35,0.36,0.31,0.38,34
+Enzo Diaz,Forward,La Liga,3.13,2.13,0.99,1.42,0.04,32
+Lucas Silva,Goalkeeper,Bundesliga,28.07,0.92,1.7,0.72,0.02,29
+Diego Rodriguez,Goalkeeper,Serie A,36.97,4.76,1.69,0.68,0.17,18
+Marco Garcia,Defender,La Liga,5.92,0.0,1.62,1.94,0.07,32
+Diego Diaz,Defender,Ligue 1,24.5,0.89,3.26,2.31,0.06,18
+Gabriel Diaz,Defender,Serie A,5.55,2.04,0.15,0.26,0.39,27
+Gabriel Diaz,Midfielder,Bundesliga,9.55,1.32,0.52,0.15,0.42,31
+Marco Garcia,Defender,Ligue 1,3.3,3.06,0.73,1.44,-0.0,32
+Diego Rodriguez,Defender,La Liga,27.51,1.46,3.12,2.3,0.08,23
+Santi Oliveira,Defender,Ligue 1,14.92,-0.67,1.85,0.48,0.07,20
+Enzo Fernandez,Midfielder,Serie A,30.94,1.45,3.3,0.13,0.08,18
+Leo Oliveira,Goalkeeper,Ligue 1,39.19,1.67,0.42,1.89,0.08,21
+Mateo Rodriguez,Goalkeeper,Premier League,19.29,1.28,2.78,1.78,0.1,18
+Hugo Santos,Midfielder,La Liga,9.55,1.24,3.22,1.45,0.03,18
+Hugo Diaz,Goalkeeper,Ligue 1,9.52,0.14,0.43,0.21,0.42,17
+Mateo Martinez,Midfielder,Serie A,35.79,3.35,1.36,0.84,0.19,25
+Gabriel Diaz,Midfielder,La Liga,1.26,1.76,2.64,-0.15,0.1,30
+Julian Lopez,Defender,Serie A,20.21,1.28,0.28,0.36,0.07,22
+Lucas Santos,Goalkeeper,Ligue 1,26.66,1.09,0.45,0.19,0.3,20
+Enzo Garcia,Midfielder,Serie A,7.7,1.21,2.49,2.72,0.04,30
+Julian Lopez,Forward,Premier League,32.93,2.0,2.5,1.04,0.03,27
+Hugo Garcia,Midfielder,Bundesliga,25.3,1.12,-0.07,0.1,0.24,32
+Lucas Santos,Forward,Serie A,26.05,1.25,3.3,0.53,0.11,34
+Lucas Lopez,Forward,Ligue 1,27.96,1.68,2.39,1.54,0.04,21
+Mateo Oliveira,Defender,Premier League,17.81,1.62,0.69,0.83,0.0,28
+Enzo Lopez,Forward,Ligue 1,19.36,1.88,2.27,0.82,0.05,22
+Lucas Oliveira,Forward,Serie A,6.72,2.14,2.45,0.75,0.12,19
+Julian Costa,Goalkeeper,La Liga,15.98,3.73,2.13,0.35,0.08,20
+Lucas Santos,Forward,Serie A,27.13,1.36,1.94,1.24,0.02,26
+Santi Rodriguez,Defender,La Liga,27.95,3.39,1.79,1.08,0.13,31
+Hugo Garcia,Forward,Bundesliga,12.71,0.74,3.02,0.06,0.03,31
+Enzo Fernandez,Midfielder,Bundesliga,19.79,1.86,2.21,0.98,0.06,25
+Julian Martinez,Goalkeeper,Bundesliga,3.2,-0.62,0.36,0.09,0.52,22
+Lucas Fernandez,Midfielder,Premier League,20.18,2.41,1.61,1.18,0.09,30
+Diego Silva,Midfielder,Bundesliga,18.61,1.05,1.36,2.42,0.05,34
+Lucas Fernandez,Midfielder,Premier League,0.73,1.4,3.03,-0.18,0.08,23
+Marco Oliveira,Forward,La Liga,16.37,0.97,-0.04,0.31,0.2,28
+Gabriel Oliveira,Goalkeeper,Ligue 1,29.3,1.26,3.8,1.73,0.03,23
+Leo Oliveira,Defender,Serie A,1.03,0.75,1.33,1.71,0.06,18
+Hugo Rodriguez,Forward,Premier League,12.49,1.96,2.15,0.05,0.07,22
+Lucas Martinez,Goalkeeper,Ligue 1,8.53,2.62,-0.86,0.45,0.19,23
+Julian Rodriguez,Goalkeeper,Bundesliga,2.73,1.82,2.54,1.63,0.15,28
+Leo Costa,Forward,Bundesliga,23.68,1.35,2.88,1.52,0.06,21
+Santi Garcia,Defender,Bundesliga,25.6,1.63,0.77,2.06,0.08,27
+Marco Fernandez,Forward,La Liga,19.66,1.57,3.06,1.16,0.02,31
+Lucas Diaz,Midfielder,Ligue 1,10.53,1.37,0.55,0.24,0.32,33
+Julian Oliveira,Midfielder,La Liga,13.72,0.91,0.22,0.17,0.49,29
+Enzo Oliveira,Defender,Ligue 1,9.55,2.19,2.46,1.33,0.03,17
+Leo Diaz,Forward,La Liga,33.64,0.78,0.26,0.07,0.35,23
+Santi Martinez,Midfielder,Premier League,38.72,1.96,3.1,2.4,0.05,21
+Diego Costa,Goalkeeper,Serie A,8.04,1.06,1.96,1.44,0.1,24
+Gabriel Rodriguez,Goalkeeper,Premier League,9.0,1.92,1.24,1.02,0.04,20
+Santi Oliveira,Midfielder,La Liga,3.53,0.72,0.24,0.38,0.47,27
+Santi Fernandez,Defender,Bundesliga,10.99,0.88,1.27,1.29,0.04,19
+Hugo Silva,Goalkeeper,Bundesliga,12.01,2.1,4.07,1.88,0.01,21
+Hugo Lopez,Midfielder,Ligue 1,32.1,1.21,2.24,0.94,0.1,24
+Leo Santos,Goalkeeper,Ligue 1,1.03,2.22,1.78,2.28,0.05,26
+Julian Fernandez,Defender,Serie A,11.75,2.39,1.5,1.46,0.07,28
+Lucas Costa,Goalkeeper,Bundesliga,32.0,3.34,0.68,0.65,0.14,23
+Lucas Diaz,Goalkeeper,Bundesliga,35.93,0.98,2.22,1.24,0.03,31
+Marco Garcia,Goalkeeper,Bundesliga,31.5,1.06,3.02,1.03,0.03,18
+Diego Lopez,Midfielder,Ligue 1,33.03,1.7,3.21,2.28,0.04,33
+Leo Oliveira,Goalkeeper,Ligue 1,15.52,1.71,1.5,2.64,0.03,17
+Enzo Santos,Defender,Premier League,39.22,1.69,5.27,1.02,0.05,17
+Marco Lopez,Forward,Bundesliga,14.82,0.83,0.07,0.24,0.54,17
+Leo Costa,Goalkeeper,Bundesliga,9.99,1.96,0.36,0.32,0.5,19
+Leo Costa,Forward,La Liga,6.72,3.1,0.66,1.59,0.12,18
+Enzo Costa,Midfielder,Premier League,32.43,1.34,2.01,2.16,0.1,19
+Santi Diaz,Midfielder,La Liga,24.74,1.46,2.19,2.29,0.03,18
+Santi Fernandez,Midfielder,Serie A,18.17,0.11,3.57,1.37,0.08,33
+Mateo Garcia,Forward,La Liga,6.87,1.19,1.2,1.96,0.04,17
+Gabriel Santos,Midfielder,Serie A,22.36,0.32,0.69,0.28,0.45,34
+Marco Garcia,Defender,Serie A,22.85,1.08,1.87,2.22,0.0,33
+Diego Garcia,Goalkeeper,La Liga,23.05,2.08,1.35,0.87,0.09,23
+Lucas Lopez,Goalkeeper,Bundesliga,24.69,0.68,1.78,2.71,0.03,34
+Marco Fernandez,Goalkeeper,Premier League,14.9,3.26,1.97,0.85,0.12,26
+Hugo Fernandez,Midfielder,Ligue 1,37.42,1.48,1.86,2.44,0.07,30
+Lucas Costa,Defender,Bundesliga,31.23,1.34,1.85,0.92,0.06,33
+Lucas Garcia,Defender,Serie A,37.93,1.34,2.22,2.52,0.04,32
+Mateo Costa,Forward,La Liga,14.57,2.13,2.89,3.4,0.03,19
+Hugo Costa,Midfielder,Premier League,12.2,1.37,0.58,1.14,0.04,19
+Gabriel Martinez,Forward,Serie A,35.49,1.46,1.63,3.0,0.06,20
+Hugo Rodriguez,Goalkeeper,Serie A,30.3,1.53,0.53,0.12,0.21,24
+Julian Fernandez,Forward,La Liga,28.74,1.44,0.2,0.23,0.31,21
+Leo Costa,Goalkeeper,Premier League,37.64,1.68,0.07,1.09,0.04,23
+Lucas Diaz,Goalkeeper,Bundesliga,34.32,0.38,2.23,0.86,0.12,26
+Julian Fernandez,Forward,Premier League,31.31,1.01,0.61,0.31,0.2,19
+Mateo Santos,Midfielder,Serie A,18.27,2.45,3.4,0.06,0.03,19
+Enzo Oliveira,Forward,Premier League,26.68,1.26,4.13,1.64,0.02,27
+Santi Santos,Forward,La Liga,35.33,1.1,0.27,0.41,0.34,19
+Mateo Garcia,Midfielder,Serie A,9.24,1.4,2.45,2.12,0.03,21
+Leo Silva,Goalkeeper,Premier League,19.78,2.44,0.8,1.07,0.08,19
+Lucas Fernandez,Forward,Ligue 1,16.59,0.85,1.23,1.45,0.2,31
+Diego Lopez,Forward,Bundesliga,18.31,1.75,1.84,4.35,0.06,18
+Diego Garcia,Midfielder,La Liga,5.82,1.72,2.74,1.38,0.07,31
+Gabriel Oliveira,Defender,Premier League,25.36,0.76,3.19,1.57,0.04,34
+Hugo Silva,Goalkeeper,Premier League,25.21,3.28,1.99,1.41,0.13,33
+Gabriel Rodriguez,Midfielder,La Liga,35.28,-0.2,1.46,1.53,0.04,21
+Enzo Garcia,Defender,Premier League,34.07,1.62,1.67,1.76,0.02,30
+Leo Silva,Defender,Serie A,17.46,1.84,1.15,0.53,0.03,33
+Santi Silva,Forward,La Liga,7.16,2.34,3.28,2.46,0.03,33
+Santi Rodriguez,Midfielder,Serie A,39.41,0.53,0.43,0.27,0.4,20
+Enzo Silva,Defender,Serie A,19.54,1.97,2.45,0.38,0.04,20
+Gabriel Diaz,Defender,Serie A,28.85,1.83,4.08,1.22,0.07,26
+Julian Fernandez,Defender,Serie A,25.72,1.71,0.6,0.18,0.43,33
+Mateo Lopez,Goalkeeper,Ligue 1,35.04,1.44,0.24,0.08,0.58,18
+Gabriel Rodriguez,Goalkeeper,Serie A,16.25,1.0,3.03,1.82,0.07,19
+Gabriel Santos,Midfielder,La Liga,15.01,1.05,2.7,3.1,0.01,26
+Hugo Lopez,Goalkeeper,Bundesliga,1.31,1.17,2.03,1.25,0.1,18
+Gabriel Diaz,Forward,Ligue 1,13.26,1.93,2.83,3.07,0.05,33
+Santi Diaz,Goalkeeper,Premier League,19.13,2.51,0.65,1.79,-0.0,22
+Hugo Rodriguez,Forward,Bundesliga,0.66,4.62,1.77,0.94,0.11,26
+Gabriel Lopez,Defender,Premier League,24.58,0.62,0.2,0.24,0.17,24
+Diego Costa,Goalkeeper,Bundesliga,34.78,1.31,1.07,1.67,-0.02,21
+Enzo Diaz,Goalkeeper,Premier League,14.03,1.57,1.1,1.42,0.07,23
+Lucas Diaz,Goalkeeper,Premier League,39.13,0.89,1.45,1.47,0.04,20
+Gabriel Garcia,Midfielder,Bundesliga,24.19,2.28,2.0,1.28,0.04,17
+Mateo Santos,Defender,Premier League,24.75,2.98,1.26,1.71,0.12,34
+Enzo Silva,Defender,Serie A,16.22,1.73,0.5,1.05,0.11,21
+Leo Fernandez,Defender,Premier League,39.96,2.82,1.67,2.17,0.01,20
+Santi Santos,Defender,Ligue 1,15.97,0.73,0.24,0.2,0.55,19
+Santi Rodriguez,Defender,Ligue 1,38.78,3.03,1.98,2.25,0.03,18
+Hugo Martinez,Forward,Serie A,38.88,1.97,2.09,0.59,0.04,18
+Gabriel Diaz,Goalkeeper,Ligue 1,35.2,1.57,0.14,0.33,0.69,23
+Mateo Santos,Forward,Serie A,37.82,0.31,1.2,-0.01,0.02,29
+Hugo Oliveira,Midfielder,Serie A,1.55,1.41,3.8,1.36,-0.0,20
+Gabriel Silva,Defender,La Liga,34.72,1.27,1.43,1.95,0.04,20
+Mateo Diaz,Forward,Serie A,8.11,0.41,-0.37,0.16,0.43,22
+Hugo Fernandez,Midfielder,Bundesliga,30.28,1.9,1.57,2.42,0.09,34
+Lucas Costa,Midfielder,La Liga,23.19,3.63,1.6,2.18,0.03,33
+Leo Costa,Forward,Serie A,9.12,-0.67,3.37,1.18,0.05,18
+Hugo Diaz,Defender,La Liga,28.94,0.8,0.32,0.08,0.36,17
+Julian Lopez,Defender,Premier League,1.82,3.23,2.87,2.61,0.07,29
+Gabriel Santos,Midfielder,Serie A,1.15,0.38,0.31,0.05,0.31,29
+Lucas Rodriguez,Forward,Serie A,16.63,1.03,3.13,0.04,0.05,22
+Mateo Martinez,Midfielder,Serie A,17.83,2.13,3.0,1.04,0.05,31
+Gabriel Silva,Forward,La Liga,24.53,0.49,0.13,0.23,0.53,30
+Gabriel Garcia,Midfielder,Bundesliga,18.52,0.98,0.19,0.27,0.39,33
+Marco Santos,Goalkeeper,Serie A,32.34,1.71,1.84,3.81,0.09,22
+Julian Silva,Goalkeeper,Bundesliga,39.77,2.03,3.32,2.9,0.03,21
+Enzo Diaz,Midfielder,Bundesliga,15.85,2.19,3.2,1.12,0.05,24
+Enzo Oliveira,Defender,Premier League,3.31,1.05,0.3,0.15,0.36,30
+Julian Rodriguez,Forward,Bundesliga,18.55,0.97,3.03,2.6,0.05,18
+Enzo Silva,Forward,Premier League,1.6,1.19,1.68,1.53,0.13,26
+Marco Rodriguez,Defender,Bundesliga,27.86,1.52,1.63,2.09,0.08,32
+Lucas Rodriguez,Midfielder,Premier League,22.48,0.73,2.64,3.63,0.03,34
+Hugo Rodriguez,Goalkeeper,Premier League,10.1,2.1,3.3,2.3,0.05,24
+Marco Garcia,Goalkeeper,Premier League,32.09,1.26,2.58,2.27,0.07,34
+Enzo Rodriguez,Defender,Ligue 1,0.95,0.09,2.39,3.0,0.07,17
+Diego Silva,Defender,Serie A,20.76,2.96,1.77,1.92,0.15,29
+Mateo Costa,Forward,Serie A,1.54,2.57,3.47,1.27,-0.01,33
+Hugo Fernandez,Goalkeeper,Ligue 1,27.21,3.28,1.51,1.86,0.08,24
+Hugo Silva,Defender,Bundesliga,37.96,1.33,2.62,3.29,0.02,28
+Gabriel Rodriguez,Midfielder,Premier League,31.62,1.59,2.67,3.14,0.05,17
+Santi Costa,Forward,Serie A,36.65,2.08,1.55,2.18,0.07,19
+Gabriel Santos,Goalkeeper,Bundesliga,1.78,1.21,1.19,1.38,0.01,18
+Santi Martinez,Midfielder,Premier League,33.3,1.44,2.71,0.79,0.12,34
+Hugo Rodriguez,Goalkeeper,Serie A,13.56,3.7,1.53,1.31,0.09,32
+Enzo Santos,Defender,Serie A,32.62,3.28,1.46,1.27,0.15,20
+Enzo Silva,Defender,Premier League,17.18,1.37,1.69,2.91,0.08,31
+Leo Silva,Goalkeeper,Bundesliga,17.01,0.42,0.44,1.25,0.06,26
+Hugo Diaz,Defender,Serie A,32.48,0.83,0.04,0.2,0.36,17
+Mateo Silva,Defender,Serie A,27.62,3.88,1.54,1.53,0.07,25
+Lucas Garcia,Defender,Serie A,11.79,2.49,1.76,0.61,0.11,23
+Marco Oliveira,Midfielder,La Liga,9.01,0.79,0.64,0.29,0.38,30
+Leo Silva,Defender,Premier League,7.51,1.48,2.02,1.84,0.04,24
+Hugo Costa,Midfielder,Premier League,35.79,2.24,3.33,1.0,0.09,22
+Julian Silva,Goalkeeper,Premier League,29.32,1.71,2.74,2.89,-0.03,23
+Santi Silva,Forward,Bundesliga,2.71,3.84,1.4,1.17,0.05,23
+Gabriel Martinez,Midfielder,Ligue 1,10.87,2.71,0.9,0.75,0.15,17
+Diego Santos,Midfielder,Ligue 1,26.79,2.93,2.18,0.6,0.1,27
+Hugo Rodriguez,Forward,Premier League,37.53,2.19,1.09,1.64,0.06,33
+Marco Costa,Goalkeeper,Bundesliga,39.42,1.95,3.2,1.13,0.06,22
+Marco Diaz,Defender,Premier League,19.18,1.18,2.93,1.57,0.08,27
+Mateo Martinez,Defender,Premier League,13.56,2.32,0.45,1.52,0.02,19
+Julian Martinez,Defender,Serie A,22.08,2.08,0.23,2.08,0.07,31
+Santi Martinez,Defender,Ligue 1,23.09,1.91,2.51,0.47,0.08,23
+Gabriel Diaz,Midfielder,La Liga,6.0,0.94,0.42,0.17,0.51,30
+Gabriel Diaz,Defender,Premier League,39.77,2.24,2.24,3.19,-0.0,24
+Santi Rodriguez,Forward,La Liga,2.74,2.48,-0.1,0.24,0.33,23
+Lucas Garcia,Defender,Premier League,38.99,1.1,2.91,1.06,0.02,21
+Lucas Rodriguez,Forward,Ligue 1,33.56,1.96,1.15,2.08,0.05,29
+Diego Costa,Midfielder,Ligue 1,31.01,4.48,2.52,1.92,0.15,19
+Marco Oliveira,Defender,Premier League,27.22,2.04,2.53,-0.17,0.12,30
+Hugo Fernandez,Defender,La Liga,2.6,0.99,0.85,0.03,0.46,17
+Lucas Costa,Goalkeeper,Ligue 1,6.53,3.14,2.42,1.11,0.06,27
+Santi Martinez,Defender,Premier League,13.38,1.65,0.42,0.2,0.42,25
+Santi Diaz,Defender,Premier League,23.3,1.64,1.6,2.65,0.04,30
+Lucas Rodriguez,Forward,Bundesliga,29.17,1.99,2.55,3.11,0.08,27
+Santi Santos,Goalkeeper,Ligue 1,11.11,0.97,1.55,1.01,0.04,24
+Santi Lopez,Defender,Bundesliga,3.5,2.59,0.98,3.32,0.02,31
+Leo Lopez,Goalkeeper,Serie A,16.19,1.19,2.49,2.4,0.07,19
+Diego Santos,Midfielder,Bundesliga,30.46,0.78,0.31,0.3,0.55,17
+Hugo Santos,Forward,Serie A,31.64,1.21,0.35,0.35,0.34,25
+Diego Martinez,Defender,Ligue 1,34.82,2.66,2.52,1.87,0.04,25
+Marco Silva,Midfielder,La Liga,13.86,0.97,2.71,1.01,0.06,33
+Diego Garcia,Defender,La Liga,23.11,1.18,-0.25,2.39,0.12,22
+Gabriel Fernandez,Forward,Premier League,12.02,0.76,1.49,1.65,0.15,23
+Marco Martinez,Goalkeeper,Bundesliga,15.66,1.43,2.49,1.09,0.08,23
+Santi Diaz,Goalkeeper,Premier League,22.62,-0.1,2.19,1.16,0.12,34
+Gabriel Santos,Defender,Bundesliga,37.16,1.58,1.75,2.34,0.12,24
+Hugo Lopez,Defender,Ligue 1,4.67,0.3,0.53,0.2,0.53,22
+Mateo Costa,Goalkeeper,La Liga,10.61,5.71,1.15,1.21,0.14,24
+Diego Diaz,Goalkeeper,La Liga,39.89,1.25,2.23,2.43,0.06,25
+Santi Costa,Forward,Ligue 1,16.02,0.67,2.12,1.56,0.09,23
+Gabriel Diaz,Midfielder,La Liga,38.31,0.85,1.06,2.85,0.11,17
+Lucas Silva,Defender,Ligue 1,33.61,1.06,0.63,0.17,0.52,29
+Leo Oliveira,Midfielder,La Liga,14.83,1.46,1.53,1.05,0.06,31
+Enzo Fernandez,Defender,Ligue 1,7.68,1.98,1.25,1.36,0.06,29
+Enzo Lopez,Forward,La Liga,27.49,2.78,0.97,0.78,0.11,22
+Julian Garcia,Midfielder,La Liga,37.94,-0.04,0.28,0.26,0.15,28
+Santi Rodriguez,Goalkeeper,Bundesliga,32.67,2.41,2.7,2.56,0.04,31
+Gabriel Oliveira,Goalkeeper,Premier League,30.12,0.97,2.75,2.22,0.06,31
+Julian Costa,Goalkeeper,Premier League,20.4,2.07,2.15,1.76,0.08,25
+Julian Lopez,Goalkeeper,Premier League,33.4,2.16,2.86,2.52,0.06,32
+Gabriel Silva,Goalkeeper,Serie A,12.56,1.39,1.85,1.72,0.07,25
+Gabriel Costa,Midfielder,Premier League,2.69,0.81,0.52,0.15,0.44,20
+Santi Diaz,Goalkeeper,Premier League,7.0,0.71,1.9,1.5,0.09,32
+Marco Diaz,Forward,Bundesliga,29.54,2.61,1.3,1.5,0.03,24
+Diego Garcia,Forward,Premier League,32.61,2.45,0.25,2.42,0.05,29
+Lucas Diaz,Goalkeeper,Ligue 1,15.2,2.07,1.21,1.99,0.02,26
+Mateo Fernandez,Defender,Premier League,23.07,-0.02,0.38,0.1,0.34,26
+Leo Rodriguez,Midfielder,La Liga,29.4,2.13,4.49,1.02,0.07,19
+Leo Garcia,Goalkeeper,Serie A,13.87,1.53,0.34,2.6,0.06,22
+Hugo Fernandez,Defender,La Liga,24.99,0.81,2.72,3.25,0.06,28
+Enzo Diaz,Forward,Bundesliga,12.97,2.36,0.98,1.1,0.21,28
+Leo Rodriguez,Goalkeeper,Premier League,20.24,2.59,2.01,3.06,0.06,18
+Marco Silva,Defender,Serie A,17.47,1.47,1.74,1.24,0.01,20
+Mateo Fernandez,Defender,Serie A,19.46,1.43,0.34,0.26,0.25,29
+Mateo Lopez,Goalkeeper,La Liga,31.97,0.44,0.16,0.27,0.42,21
+Hugo Martinez,Goalkeeper,Premier League,31.74,1.19,-0.03,0.17,0.23,19
+Leo Garcia,Midfielder,Premier League,21.05,2.46,1.15,2.02,0.07,27
+Enzo Santos,Midfielder,Ligue 1,38.42,2.45,2.57,1.78,0.03,30
+Gabriel Lopez,Forward,Ligue 1,16.08,0.47,2.16,1.3,0.02,22
+Mateo Rodriguez,Goalkeeper,Bundesliga,37.98,0.81,1.98,1.35,0.06,32
+Marco Santos,Defender,La Liga,8.71,2.94,1.82,0.96,0.15,29
+Leo Oliveira,Defender,Ligue 1,12.55,0.99,1.66,1.78,0.06,27
+Lucas Martinez,Goalkeeper,Ligue 1,18.27,1.39,1.02,2.31,0.1,27
+Enzo Lopez,Forward,Premier League,29.45,2.4,0.78,1.46,0.09,20
+Marco Silva,Midfielder,Premier League,19.32,0.36,1.34,3.67,0.05,33
+Santi Oliveira,Forward,Serie A,28.98,-0.03,3.36,2.12,0.05,31
+Julian Santos,Defender,La Liga,29.83,1.37,2.08,3.53,0.13,22
+Lucas Rodriguez,Defender,Serie A,6.69,1.64,0.45,0.08,0.44,30
+Hugo Diaz,Goalkeeper,Ligue 1,31.34,0.86,0.44,0.27,0.54,20
+Marco Silva,Goalkeeper,La Liga,5.28,0.79,4.28,0.88,0.1,32
+Hugo Diaz,Goalkeeper,La Liga,4.86,0.75,2.75,2.62,0.06,25
+Hugo Martinez,Defender,Ligue 1,17.77,2.11,3.09,2.55,0.06,33
+Diego Oliveira,Defender,La Liga,1.43,4.61,0.82,1.2,0.08,28
+Hugo Garcia,Goalkeeper,La Liga,33.58,0.47,-0.02,0.19,0.23,24
+Enzo Fernandez,Midfielder,Bundesliga,27.38,5.86,1.06,0.91,0.06,18
+Hugo Santos,Midfielder,Bundesliga,4.95,2.48,2.82,1.5,0.07,19
+Santi Lopez,Defender,Bundesliga,5.69,2.15,1.33,2.54,0.1,18
+Lucas Silva,Forward,Premier League,18.16,0.33,1.4,0.7,0.06,34
+Julian Fernandez,Goalkeeper,Ligue 1,9.32,0.48,1.1,1.49,0.06,19
+Leo Martinez,Midfielder,Premier League,18.06,3.24,2.05,1.05,0.19,17
+Mateo Garcia,Midfielder,La Liga,35.13,1.12,2.27,1.74,0.07,31
+Mateo Rodriguez,Midfielder,Ligue 1,20.33,1.19,-0.07,0.14,0.26,21
+Leo Garcia,Defender,Ligue 1,21.26,1.28,0.53,0.24,0.28,31
+Marco Costa,Forward,Ligue 1,34.26,1.04,0.4,0.33,0.31,18
+Diego Fernandez,Forward,Premier League,16.69,3.02,1.56,0.36,0.1,30
+Marco Oliveira,Midfielder,Bundesliga,17.18,1.14,0.33,0.08,-0.16,21
+Hugo Costa,Goalkeeper,Ligue 1,17.09,-0.02,1.77,1.18,0.05,25
+Gabriel Garcia,Goalkeeper,Premier League,24.72,0.07,0.83,1.09,0.06,31
+Julian Silva,Forward,La Liga,15.99,2.86,1.55,0.85,0.11,33
+Santi Costa,Goalkeeper,Serie A,32.99,0.97,0.43,0.3,0.55,33
+Marco Rodriguez,Defender,Premier League,36.28,0.68,0.31,0.26,0.02,33
+Julian Diaz,Midfielder,Premier League,19.54,2.01,2.4,2.0,0.05,24
+Enzo Garcia,Goalkeeper,Ligue 1,11.25,3.6,-0.23,0.99,0.08,28
+Enzo Garcia,Defender,Bundesliga,2.08,0.52,0.65,0.2,0.3,26
+Gabriel Diaz,Midfielder,Ligue 1,10.37,0.87,0.45,2.37,0.07,25
+Santi Diaz,Defender,La Liga,31.03,3.88,1.22,0.2,0.14,21
+Enzo Costa,Midfielder,Ligue 1,12.52,1.29,3.0,1.78,0.03,30
+Hugo Silva,Goalkeeper,Ligue 1,13.77,1.22,0.25,0.15,0.55,27
+Julian Santos,Goalkeeper,Bundesliga,36.27,1.07,1.27,2.2,0.04,31
+Hugo Silva,Goalkeeper,La Liga,35.8,1.85,1.19,-1.05,0.05,17
+Marco Silva,Forward,Premier League,4.01,0.0,0.11,0.2,0.45,30
+Santi Costa,Defender,La Liga,17.46,1.08,0.28,1.54,0.06,28
+Enzo Martinez,Defender,Serie A,25.16,0.78,-0.0,1.82,0.05,30
+Julian Rodriguez,Midfielder,Serie A,14.07,1.38,3.74,1.7,-0.0,32
+Enzo Santos,Defender,Bundesliga,4.38,0.56,0.78,0.2,0.43,28
+Marco Silva,Defender,Ligue 1,2.89,1.08,0.01,0.22,0.48,31
+Mateo Lopez,Defender,Ligue 1,33.71,1.99,2.9,2.97,0.05,24
+Santi Rodriguez,Forward,La Liga,35.25,1.8,0.43,0.19,0.75,27
+Marco Rodriguez,Forward,Serie A,25.33,1.96,3.59,1.48,0.06,32
+Julian Martinez,Midfielder,La Liga,18.48,0.88,1.78,1.97,0.05,21
+Leo Costa,Forward,Ligue 1,19.32,2.38,1.63,2.13,0.14,34
+Enzo Rodriguez,Goalkeeper,Bundesliga,26.32,2.25,3.05,2.04,0.02,21
+Diego Martinez,Defender,Premier League,20.84,0.81,0.12,0.13,0.25,27
+Enzo Oliveira,Forward,La Liga,37.71,1.11,1.91,0.43,0.07,22
+Leo Rodriguez,Midfielder,Premier League,2.17,2.32,1.66,1.96,0.08,28
+Diego Oliveira,Goalkeeper,Ligue 1,33.1,0.61,0.06,0.05,0.41,33
+Enzo Martinez,Forward,Ligue 1,16.04,1.43,1.8,2.09,0.12,23
+Mateo Oliveira,Defender,La Liga,19.92,1.98,1.57,0.28,-0.0,19
+Enzo Garcia,Defender,Serie A,5.15,1.37,0.27,0.17,0.6,28
+Julian Lopez,Forward,Premier League,18.18,1.1,0.5,0.27,0.5,23
+Julian Garcia,Defender,Bundesliga,22.0,1.24,1.79,1.65,0.07,28
+Mateo Rodriguez,Forward,Premier League,11.0,2.03,0.29,0.26,0.31,20
+Leo Oliveira,Forward,La Liga,21.46,0.92,1.84,1.31,0.05,23
+Enzo Rodriguez,Midfielder,Bundesliga,3.6,1.4,0.32,0.28,0.27,19
+Lucas Costa,Midfielder,Serie A,0.99,1.16,0.38,0.24,0.29,20
+Hugo Rodriguez,Defender,Bundesliga,16.04,0.77,0.26,-0.01,0.38,21
+Hugo Rodriguez,Forward,Premier League,21.92,-0.38,3.23,2.95,0.04,23
+Mateo Martinez,Midfielder,Ligue 1,24.04,1.0,3.65,2.71,0.07,27
+Julian Fernandez,Forward,Bundesliga,38.5,1.81,2.62,1.17,0.1,22
+Leo Santos,Defender,Premier League,11.8,2.65,3.31,2.51,0.08,28
+Lucas Rodriguez,Midfielder,La Liga,11.61,1.15,0.06,0.06,0.34,24
+Leo Santos,Goalkeeper,La Liga,36.29,0.58,0.64,0.24,0.34,32
+Leo Santos,Goalkeeper,Serie A,6.15,0.69,0.08,0.28,0.72,24
+Diego Garcia,Defender,Premier League,20.06,1.77,2.31,1.86,-0.02,33
+Marco Fernandez,Goalkeeper,Serie A,6.47,2.39,2.19,2.09,0.14,29
+Marco Diaz,Forward,La Liga,1.34,4.11,1.55,1.68,0.12,25
+Leo Oliveira,Goalkeeper,Ligue 1,26.65,0.77,2.48,0.22,0.09,17
+Gabriel Lopez,Defender,Ligue 1,38.11,0.76,2.58,0.93,0.04,26
+Diego Martinez,Goalkeeper,Bundesliga,37.48,2.73,1.9,2.21,0.18,18
+Mateo Garcia,Forward,Bundesliga,3.1,1.36,-0.09,0.35,0.48,31
+Mateo Santos,Defender,Ligue 1,38.1,2.36,1.84,0.76,0.1,26
+Santi Silva,Goalkeeper,Bundesliga,4.89,1.52,0.87,0.19,0.06,32
+Mateo Silva,Goalkeeper,La Liga,7.91,1.96,2.29,1.46,0.04,26
+Gabriel Martinez,Midfielder,Bundesliga,27.13,0.95,0.29,0.09,0.47,17
+Marco Silva,Goalkeeper,Bundesliga,0.64,2.97,0.96,0.17,0.11,21
+Gabriel Silva,Midfielder,Ligue 1,14.85,3.77,1.08,0.86,0.13,23
+Santi Garcia,Forward,Ligue 1,26.06,2.05,2.53,1.13,0.14,30
+Hugo Martinez,Forward,Ligue 1,24.99,1.61,-0.36,1.63,0.08,18
+Enzo Lopez,Forward,Serie A,30.5,1.54,2.31,0.5,0.06,22
+Julian Rodriguez,Defender,Bundesliga,30.59,1.73,1.34,1.22,0.05,33
+Hugo Oliveira,Forward,La Liga,23.09,1.59,2.75,0.26,0.08,25
+Gabriel Costa,Forward,Serie A,25.24,3.77,1.27,0.72,0.09,33
+Diego Silva,Midfielder,Serie A,20.48,2.27,1.0,0.57,0.02,17
+Leo Garcia,Forward,Ligue 1,29.65,1.37,0.22,0.08,0.36,27
+Marco Rodriguez,Forward,Premier League,11.26,1.78,0.8,1.42,0.14,20
+Lucas Fernandez,Forward,Premier League,2.93,0.81,0.42,0.16,0.47,30
+Lucas Santos,Midfielder,Ligue 1,31.23,0.45,1.14,2.03,0.08,33
+Marco Diaz,Midfielder,La Liga,23.1,2.29,2.61,2.57,0.01,33
+Marco Oliveira,Forward,Premier League,22.17,2.0,0.69,1.15,0.11,32
+Marco Diaz,Goalkeeper,La Liga,15.14,3.15,2.51,1.77,0.13,32
+Santi Oliveira,Defender,Serie A,8.54,1.54,0.77,0.95,0.1,24
+Gabriel Santos,Goalkeeper,La Liga,34.48,1.8,0.77,1.84,0.06,34
+Diego Martinez,Forward,Premier League,6.98,0.87,0.48,0.24,0.54,20
+Diego Silva,Midfielder,La Liga,36.85,1.22,2.03,2.06,0.03,33
+Mateo Rodriguez,Midfielder,La Liga,5.22,0.81,0.18,0.22,0.56,30
+Diego Fernandez,Forward,Premier League,4.41,1.18,3.14,0.81,0.08,22
+Mateo Fernandez,Defender,Serie A,7.68,0.59,0.17,0.06,0.09,23
+Leo Costa,Forward,Premier League,27.74,1.67,4.07,1.28,0.07,33
+Marco Rodriguez,Goalkeeper,Serie A,10.23,2.68,1.54,1.6,0.05,17
+Julian Fernandez,Goalkeeper,Ligue 1,10.86,0.73,0.41,0.1,0.13,27
+Mateo Silva,Defender,Serie A,36.71,2.09,0.8,1.42,0.02,25
+Lucas Costa,Midfielder,Bundesliga,20.03,1.81,2.44,0.62,0.11,17
+Enzo Garcia,Midfielder,Premier League,23.03,1.83,2.22,3.11,0.08,20
