@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+# Ignore large data and models but keep the folder structure
+data/*.csv
+models/*.pkl
